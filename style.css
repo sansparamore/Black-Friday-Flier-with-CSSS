@@ -22,26 +22,26 @@ h1, h2 {
 }
 
 h2 span {
-    color: rgb(197, 0, 0);
-    text-shadow: 2px 2px 2px rgb(197, 0, 0);
+    color: rgb(0, 52, 24);
+    text-shadow: 2px 2px 2px rgb(0, 52, 24);
 }
 
  body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #012d36;
+    background-color: rgb(255, 255, 255);
  }
 
 .card {
-    width: 620px;
+    width: 600px;
     display: flex;
-    background-color: #012d36;
+    background-color: rgb(255, 255, 255);
 }
 
 .bio, .imgBox {
     
-    background-color: #fda50f;
+    background-color: #f5fefd;
     height: 400px;
     width: 300px;
     border-radius: 10px;
@@ -59,7 +59,7 @@ img{
     font-size: 20px;
     color: #000;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 
