@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    text-shadow: 2px 0 2px #000;
+}
+
+h1 span {
+}
+
+h1, h2 {
+    margin-top: 15px;
+    text-align: center;
+}
+
+h2 span {
+    color: rgb(197, 0, 0);
+    text-shadow: 2px 2px 2px rgb(197, 0, 0);
+}
+
+ body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #012d36;
+ }
+
+.card {
+    width: 620px;
+    display: flex;
+    background-color: #012d36;
+}
+
+.bio, .imgBox {
+    
+    background-color: #fda50f;
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #000;
+}
+
+
+img{
+    height: 400px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.fb {
+    font-size: 20px;
+    color: #000;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+p {
+    font-family: 'Pinyon Script';
+    font-size: 30px;
+    padding: 5px;
+    text-decoration: solid;
+    margin-top: 20px;
+}
+
+
+ /*---(45deg, #012d36,)----//
